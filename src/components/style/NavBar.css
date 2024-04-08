@@ -1,0 +1,31 @@
+.navbar {
+  background-color: black !important;
+  height: 52px;
+}
+.search-form {
+  background-color: black;
+  color: white;
+  border-radius: 5%;
+  border-color: white;
+  width: 119px;
+  height: 25px;
+}
+
+.nav-link {
+  color: rgb(177, 171, 171);
+}
+.nav-link a .live {
+  color: orange;
+}
+.nav-link:hover {
+  color: white;
+}
+
+.btn btn-outline-success {
+  height: 20px;
+}
+.bi-person-circle {
+  background-color: black;
+  color: white;
+  height: 20px;
+}

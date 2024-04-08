@@ -1,0 +1,159 @@
+.copyright-part p {
+  margin-top: 10px;
+  margin-bottom: 5px;
+  font-size: 11px;
+  color: rgb(151, 152, 152);
+}
+.policy {
+  display: flex;
+}
+p {
+  font-size: 11px;
+  margin-right: 10px;
+}
+.seperator {
+  color: rgb(151, 152, 152);
+}
+.footer {
+  padding: 10px;
+}
+figcaption {
+  text-align: center;
+}
+
+.devices {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: space-evenly;
+  gap: 64px;
+  max-width: 100%;
+}
+.landing-devices__icon--iphone {
+  height: 72px;
+  width: 119px;
+  flex-direction: row;
+}
+.landing-devices__icon--ipad {
+  height: 90px;
+  width: 149px;
+}
+.landing-devices__icon--mac {
+  height: 95px;
+  width: 157px;
+}
+.landing-devices__icon--airplay {
+  height: 72px;
+  width: 119px;
+}
+.landing-devices__icon--web {
+  height: 52px;
+  width: 52px;
+}
+section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  background-color: #fff;
+  padding: 50px 6% 30px;
+  width: 100%;
+}
+.landing-devices-info {
+  display: block;
+  margin-bottom: 25px;
+  font-weight: 600;
+  color: rgb(10, 132, 255);
+}
+.landing-devices__3ptv {
+  /* display: flex; */
+  /* align-items: center; */
+  /* height: 70px; */
+  /* margin: 0 20px; */
+}
+.ac-device__image-icon-samsung {
+  width: 117px;
+  height: 81px;
+  background-size: 117px 81px;
+  background-repeat: no-repeat;
+  background-image: url(https://www.apple.com/v/apple-tv-plus/ag/images/overview/icon_samsung__er6s8sp9t126_large_2x.jpg);
+}
+.ac-device__image-icon-lg {
+  width: 161px;
+  height: 70px;
+  background-size: 161px 70px;
+  background-repeat: no-repeat;
+  background-image: url(https://www.apple.com/v/apple-tv-plus/ag/images/overview/icon_lg__7fxn3l0zf5ua_large_2x.jpg);
+}
+.ac-device__image-icon-vizio {
+  width: 110px;
+  height: 70px;
+  background-size: 110px 70px;
+  background-repeat: no-repeat;
+  background-image: url(https://www.apple.com/v/apple-tv-plus/ag/images/overview/icon_vizio__crgnno5ezt2e_large_2x.jpg);
+}
+.ac-device__image-icon-sony {
+  width: 126px;
+  height: 70px;
+  background-size: 126px 70px;
+  background-repeat: no-repeat;
+  background-image: url(https://www.apple.com/v/apple-tv-plus/ag/images/overview/icon_sony__dv28xq4n91ea_large_2x.jpg);
+}
+.ac-device__image-icon-xfinity {
+  width: 113px;
+  height: 70px;
+  background-size: 113px 70px;
+  background-repeat: no-repeat;
+  background-image: url(https://www.apple.com/v/apple-tv-plus/ag/images/overview/icon_xfinity__fohor3dbqrmi_large_2x.jpg);
+}
+.ac-device__image-icon-roku {
+  width: 102px;
+  height: 70px;
+  background-size: 102px 70px;
+  background-repeat: no-repeat;
+  background-image: url(https://www.apple.com/v/apple-tv-plus/ag/images/overview/icon_roku__d3kr4gpcimoi_large_2x.jpg);
+}
+.ac-device__image-icon-firetv {
+  width: 96px;
+  height: 70px;
+  background-size: 96px 70px;
+  background-repeat: no-repeat;
+  background-image: url(https://www.apple.com/v/apple-tv-plus/ag/images/overview/icon_firetv__f6qpefrj0ree_large_2x.jpg);
+}
+.ac-device__image-icon-google-tv {
+  width: 160px;
+  height: 70px;
+  background-size: 160px 70px;
+  background-repeat: no-repeat;
+  background-image: url(https://www.apple.com/v/apple-tv-plus/ag/images/overview/icon_google_tv__e5t4asdc2gsy_large_2x.jpg);
+}
+.ac-device__image-icon-playstation {
+  width: 161px;
+  height: 70px;
+  background-size: 161px 70px;
+  background-repeat: no-repeat;
+  background-image: url(https://www.apple.com/v/apple-tv-plus/ag/images/overview/icon_playstation__djtq2b40wf2a_large_2x.jpg);
+}
+.ac-device__image-icon-xbox {
+  width: 161px;
+  height: 70px;
+  background-size: 161px 70px;
+  background-repeat: no-repeat;
+  background-image: url(https://www.apple.com/v/apple-tv-plus/ag/images/overview/icon_xbox__cfelmbxxfoaa_large_2x.jpg);
+}
+.appletv4k {
+  width: 123px;
+  height: 36px;
+}
+.landing-devices {
+  display: flex;
+  justify-content: center;
+  width: 990px;
+  align-items: center;
+  flex-wrap: wrap;
+  column-gap: 31px;
+  margin: 1px auto;
+}
+.figure {
+  margin: 0px !important;
+}

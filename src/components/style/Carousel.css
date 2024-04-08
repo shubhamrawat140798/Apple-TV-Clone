@@ -1,0 +1,37 @@
+.info-container {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  bottom: 8%;
+  left: 2%;
+}
+.age-restriction {
+  margin-left: 5px;
+  color: #a9a7a7;
+}
+.genre-info {
+  display: flex;
+  color: white;
+  flex-direction: row;
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+.title-image {
+  max-width: 35%;
+  float: left;
+  margin-bottom: 5px;
+}
+.product-discription {
+  color: white;
+  align-self: start;
+  font-size: 15px;
+  line-height: 1.33338;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+.logo-left-top {
+  max-width: 10%;
+  position: absolute;
+  top: 18px;
+  left: 16px;
+}

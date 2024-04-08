@@ -1,0 +1,17 @@
+.dropdown-toggle::after {
+  display: none !important;
+}
+.btn .btn-secondary .dropdown-toggle {
+  padding: 0 !important;
+}
+.dropdown {
+  margin-left: 5px;
+}
+.dropdown-item {
+  height: 20px;
+  font-size: 13px;
+  size: 20px;
+}
+.dropdown-menu .dropdown-menu-end {
+  padding: none !important;
+}
